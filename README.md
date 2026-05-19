@@ -1,5 +1,7 @@
 # VIRTUAL-MACHINES-
 EX 6: MOVING FILES BETWEEN VIRTUAL MACHINES
+## Name: PRADEEP B
+## Register Number: 212224040238
 
 Aim:
 To move the files between virtual machine.
